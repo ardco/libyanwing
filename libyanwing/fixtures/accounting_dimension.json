@@ -1,0 +1,44 @@
+[
+ {
+  "dimension_defaults": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Accounting Dimension",
+  "document_type": "Department",
+  "fieldname": "department",
+  "label": "Department",
+  "modified": "2023-01-29 14:49:42.658853",
+  "name": "Department",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "dimension_defaults": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Accounting Dimension",
+  "document_type": "business Line",
+  "fieldname": "business_line",
+  "label": "business Line",
+  "modified": "2023-01-29 14:50:04.395833",
+  "name": "business Line",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "dimension_defaults": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Accounting Dimension",
+  "document_type": "Office Location",
+  "fieldname": "office_location",
+  "label": "Office Location",
+  "modified": "2023-01-29 14:50:39.251260",
+  "name": "Office Location",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

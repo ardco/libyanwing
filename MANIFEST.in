@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include libyanwing *.css
+recursive-include libyanwing *.csv
+recursive-include libyanwing *.html
+recursive-include libyanwing *.ico
+recursive-include libyanwing *.js
+recursive-include libyanwing *.json
+recursive-include libyanwing *.md
+recursive-include libyanwing *.png
+recursive-include libyanwing *.py
+recursive-include libyanwing *.svg
+recursive-include libyanwing *.txt
+recursive-exclude libyanwing *.pyc
