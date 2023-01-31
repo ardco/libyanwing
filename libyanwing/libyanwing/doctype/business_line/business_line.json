@@ -1,0 +1,124 @@
+{
+ "actions": [],
+ "autoname": "feild:",
+ "creation": "2022-12-12 23:53:50.272297",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "business_line_no",
+  "cargo",
+  "ticket",
+  "maintenance",
+  "passenger",
+  "data_6"
+ ],
+ "fields": [
+  {
+   "fieldname": "business_line_no",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "business line No",
+   "reqd": 1
+  },
+  {
+   "fieldname": "cargo",
+   "fieldtype": "Data",
+   "label": "cargo"
+  },
+  {
+   "fieldname": "ticket",
+   "fieldtype": "Data",
+   "label": "ticket"
+  },
+  {
+   "fieldname": "maintenance",
+   "fieldtype": "Data",
+   "label": "maintenance"
+  },
+  {
+   "fieldname": "passenger",
+   "fieldtype": "Data",
+   "label": "passenger"
+  },
+  {
+   "fieldname": "data_6",
+   "fieldtype": "Data"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-12-12 23:55:18.290636",
+ "modified_by": "Administrator",
+ "module": "Libyanwing",
+ "name": "business line",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Accounts User",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Accounts Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Sales User",
+   "share": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Purchase User",
+   "share": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Auditor",
+   "share": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

@@ -16,6 +16,8 @@ libyanwing.egg-info/top_level.txt
 libyanwing/config/__init__.py
 libyanwing/config/desktop.py
 libyanwing/config/docs.py
+libyanwing/fixtures/accounting_dimension.json
 libyanwing/libyanwing/__init__.py
 libyanwing/templates/__init__.py
 libyanwing/templates/pages/__init__.py
+libyanwing/www/__init__.py
